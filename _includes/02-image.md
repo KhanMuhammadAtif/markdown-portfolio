@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![my profile image](https://github.com/KhanMuhammadAtif/markdown-portfolio/blob/add-images-links/_includes/20180812_013544.jpg)
